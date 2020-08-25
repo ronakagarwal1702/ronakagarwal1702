@@ -1,5 +1,5 @@
-# Hola, I'm Ronak Agarwal!👋   
-![c](https://user-images.githubusercontent.com/60615848/91172856-840edb00-e6fa-11ea-93be-0e95b4ac8f83.gif) 
+# Hola, I'm Ronak Agarwal!👋   <code> 
+  <img  align="right" src="https://user-images.githubusercontent.com/60615848/91172856-840edb00-e6fa-11ea-93be-0e95b4ac8f83.gif" width="350"/></code>
 
 - 🔭 I’m currently working on MYSELF
 - 🌱 I’m currently learning BIGDATA    
