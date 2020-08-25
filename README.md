@@ -1,4 +1,4 @@
-**Hola, I'm *Ronak Agarwal*!**👋
+# Hola, I'm Ronak Agarwal!👋
 
 - 🔭 I’m currently working on MYSELF
 - 🌱 I’m currently learning BIGDATA
